@@ -4,6 +4,9 @@ Sie kann als Ausgangspunkt für eine faktenbasierte Recherche dienen, um sich se
 
 Um auch nicht-englischsprachige Leser abzuholen, versuche ich Übersetzungen der englischen Begriffe und Namen bereitzustellen.
 
+## Allgemeine Informationen
+- Das [Paul Ehrlich Institut(PEI)](https://www.pei.de/DE/home/home-node.html) ist das offizielle ["Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel"](https://www.gesetze-im-internet.de/basig/BJNR011630972.html) (Anmerkung: die Quelle https://www.gesetze-im-internet.de ist eine [vom Bundesminiterium der Justiz bereitgestellte](https://www.bundesjustizamt.de/DE/Themen/Buergerdienste/Gesetze/Gesetze_node.html) Website
+
 ## Impfstoff von Biontech/Pfizer
 - Name des Impfstoffs: "Comirnaty" (Kennung: "BNT162b2")
 - [Öffentlicher Gutachterbericht der EU | European Public Assessment Report (EPAR)](https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty)
@@ -23,7 +26,8 @@ Um auch nicht-englischsprachige Leser abzuholen, versuche ich Übersetzungen der
   - Weitere Links
     - [Informationen einer US-amerikanischen Datenbank für Klinische Studien](https://clinicaltrials.gov/ct2/show/NCT04368728?term=BNT162b2&cond=SARS&phase=12&draw=2&rank=2)
 
-    
+- FAQ des [Paul-Ehrlich-Instituts](https://www.pei.de/DE/newsroom/dossier/coronavirus/coronavirus-inhalt.html;jsessionid=7465DE89430DB25C0D433B6921AF09F7.intranet212?nn=169730&cms_pos=3)
+
 
 ## Impfstoff von Moderna
 TODO
