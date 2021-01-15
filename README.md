@@ -5,8 +5,7 @@ Sie kann als Ausgangspunkt für eine faktenbasierte Recherche dienen, um sich se
 Um auch nicht-englischsprachige Leser abzuholen, versuche ich Übersetzungen der englischen Begriffe und Namen bereitzustellen.
 
 ## Allgemeine Informationen
-- Das [Paul Ehrlich Institut(PEI)](https://www.pei.de/DE/home/home-node.html) ist das offizielle ["Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel"](https://www.gesetze-im-internet.de/basig/BJNR011630972.html) (Anmerkung: die Quelle https://www.gesetze-im-internet.de ist eine [vom Bundesminiterium der Justiz bereitgestellte](https://www.bundesjustizamt.de/DE/Themen/Buergerdienste/Gesetze/Gesetze_node.html) Website
-
+- Das [Paul Ehrlich Institut(PEI)](https://www.pei.de/DE/home/home-node.html) ist das offizielle "Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel"(siehe https://www.gesetze-im-internet.de/basig/BJNR011630972.html ; Anmerkung: https://www.gesetze-im-internet.de ist eine [vom Bundesminiterium der Justiz bereitgestellte](https://www.bundesjustizamt.de/DE/Themen/Buergerdienste/Gesetze/Gesetze_node.html) Website) 
 ## Impfstoff von Biontech/Pfizer
 - Name des Impfstoffs: "Comirnaty" (Kennung: "BNT162b2")
 - [Öffentlicher Gutachterbericht der EU | European Public Assessment Report (EPAR)](https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty)
