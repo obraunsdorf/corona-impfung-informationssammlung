@@ -33,7 +33,7 @@ Um auch nicht-englischsprachige Leser abzuholen, versuche ich Übersetzungen der
     - Impfstoffe und biomedizinische Arzneimittel
     - -Sicherheit und Wirksamkeit (Stand 15.01.2021)
     
-- [Sicherheits bericht des PEI (](https://www.pei.de/SharedDocs/Downloads/DE/newsroom/dossiers/sicherheitsberichte/sicherheitsbericht-27-12-bis-10-01-21.pdf?__blob=publicationFile&v=3)
+- [Sicherheits bericht des PEI](https://www.pei.de/SharedDocs/Downloads/DE/newsroom/dossiers/sicherheitsberichte/sicherheitsbericht-27-12-bis-10-01-21.pdf?__blob=publicationFile&v=3)
   - Listet Nebenwirkungen der Impfung und deren Häufigkeit auf
   - aktuelle Version Listet Ergebnisse von 27.12.20 - 10.01.21
   
